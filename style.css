@@ -527,14 +527,14 @@ div a{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    flex-wrap: wrap; 
 }
 .footer-info{
     border-radius: 10px;
     width: 25%;
     color: white;
     padding: 5px;
-    margin: 10px;
+    /* margin: 10px; */
     line-height: 40px;
 }
 .email{
