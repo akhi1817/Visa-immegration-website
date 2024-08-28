@@ -527,7 +527,7 @@ div a{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap; 
+    
 }
 .footer-info{
     border-radius: 10px;
